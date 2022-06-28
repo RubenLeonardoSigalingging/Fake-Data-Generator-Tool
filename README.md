@@ -1,0 +1,2 @@
+# Fake-Data-Generator-Tool
+Repositori Ini Dibuat Oleh Ruben Leonardo Sigalingging, Dibuat Pada Selasa, 28 Juni 2022, Pukul 10:23 PM. Menggunakan Bahasa Pemrogramman Python Versi 3.8.10. Algoritma Program Ini Adalah: 1. Menerima Input Dari User Untuk Menginputkan Kode Negara Yang Akan Dibuat Nama Palsu Dari Kode Negara Yang Dipilih User, Yang Kedua: Jumlah Nama Palsu Yang Akan Dibuat, Yang Ketiga: Program Akan Secara Otomatis Membuat Nama-nama Palsu Tersebut Yang Berasal Dari Inputan User. Tetap Semangat dan Pantang Menyerah.
